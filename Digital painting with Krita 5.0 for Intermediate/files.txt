@@ -1,0 +1,74 @@
+1. INTRODUCTION
+	(1280, 720) | 01. Introduction.mp4
+	(1280, 720) | 02. Exercise files and other information.mp4
+	(1280, 720) | 03. UI customization and custom shortcuts.mp4
+2. ADVANCED SELECTION TECHNIQUES
+	(1280, 720) | 01. Basic selection techniques.mp4
+	(1280, 720) | 02. Adding and subtracting selection.mp4
+	(1280, 720) | 03. Global selection mask.mp4
+	(1280, 720) | 04. Raster vs Vector selections.mp4
+	(1280, 720) | 05. Selection transformation.mp4
+	(1280, 720) | 06. Contiguous and Similar selection.mp4
+	(1280, 720) | 07. Selection tools UI changes (Krita 5.1).mp4
+	(1280, 720) | 08. Select opaque.mp4
+	(1280, 720) | 09. Selection mask.mp4
+	(1280, 720) | 10. Selection operations.mp4
+	(1280, 720) | 11. Anti-aliasing.mp4
+3. VECTOR GRAPHICS
+	(1280, 720) | 01. Raster versus Vector.mp4
+	(1280, 720) | 02. Vector implementation in Krita.mp4
+	(1280, 720) | 03. Vector transformation.mp4
+	(1280, 720) | 04. Vector colors.mp4
+	(1280, 720) | 05. Stroke appearance.mp4
+	(1280, 720) | 06. Vector graphics management.mp4
+	(1280, 720) | 07. Primitive shapes.mp4
+	(1280, 720) | 08. Vector elements.mp4
+	(1280, 720) | 09. Vector element types.mp4
+	(1280, 720) | 10. Vector editing.mp4
+	(1280, 720) | 11. Align, Distribute, and Spacing.mp4
+	(1280, 720) | 12. Logical operations.mp4
+	(1280, 720) | 13. Bezier Curve tools.mp4
+	(1280, 720) | 14. Vector drawing exercises.mp4
+4. FILTER AND MASK
+	(1280, 720) | 01. The basics of Filter.mp4
+	(1280, 720) | 02. Filter layer.mp4
+	(1280, 720) | 03. Filter mask.mp4
+	(1280, 720) | 04. Invert, HSV, Color balance, and Dodge.mp4
+	(1280, 720) | 05. Levels and Curve.mp4
+	(1280, 720) | 06. GMic filters.mp4
+	(1280, 720) | 07. Transparency mask.mp4
+	(1280, 720) | 08. Alpha channel on Filter.mp4
+	(1280, 720) | 09. Transform tool and Transform mask.mp4
+5. STRAWBERRY HOUSE PROJECT
+	(1280, 720) | 01. Strawberry house project preparation.mp4
+	(1280, 720) | 02. Reference images and sketching.mp4
+	(1280, 720) | 03. Midground base colors.mp4
+	(1280, 720) | 04. Background and Foreground base colors.mp4
+	(1280, 720) | 05. Creating the small plants.mp4
+	(1280, 720) | 06. Background plants.mp4
+	(1280, 720) | 07. Foreground plants.mp4
+	(1280, 720) | 08. Main shadow.mp4
+	(1280, 720) | 09. The leaves shadows.mp4
+	(1280, 720) | 10. Ambient occlusion.mp4
+	(1280, 720) | 11. Finishing the background.mp4
+	(1280, 720) | 12. Finishing the foreground.mp4
+	(1280, 720) | 13. Adding textures.mp4
+	(1280, 720) | 14. Highlight colors.mp4
+	(1280, 720) | 15. Reflected colors and sky color.mp4
+	(1280, 720) | 16. Paint over and Filter.mp4
+6. GRADATION
+	(1280, 720) | 01. Gradient tool.mp4
+	(1280, 720) | 02. Special gradient.mp4
+	(1280, 720) | 03. Stop gradient.mp4
+	(1280, 720) | 04. Segmented gradient.mp4
+	(1280, 720) | 05. Gradient Map Filter.mp4
+7. ROBOT WARRIOR PROJECT
+	(1280, 720) | 01. Robot warrior project preparation.mp4
+	(1280, 720) | 02. Creating vector line art.mp4
+	(1280, 720) | 03. Refining the line art.mp4
+	(1280, 720) | 04. Adding background and shading preparation.mp4
+	(1280, 720) | 05. Shading and Highlight.mp4
+	(1280, 720) | 06. Coloring with Gradient Map.mp4
+	(1280, 720) | 07. Lighting effect.mp4
+	(1280, 720) | 08. Reflection and glow effect.mp4
+	(1280, 720) | 09. Line art coloring.mp4
